@@ -1,3 +1,5 @@
+[web_servers]
 ansible@192.168.0.104
-#ansible@192.168.0.173
+[db_servers]
 fakename@192.168.0.194
+ansible@192.168.0.104
